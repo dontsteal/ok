@@ -13,60 +13,6 @@
             "ThumbNail": "https://i.imgur.com/3wfoKAr.png"
         },
         {
-            "Name": "NEW - Adopt Me",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/oding",
-            "Description": "#1 Exclusive GUI, Auto Farm & More!",
-            "ThumbNail": "https://i.imgur.com/EQtDKpq.jpg"
-        },
-        {
-            "Name": "NEW - Little World",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/world",
-            "Description": "Best GUI, Auto Farm, Kill All & More!",
-            "ThumbNail": "https://i.imgur.com/RbIPp6c.jpg"
-        },
-        {
-            "Name": "NEW - Your Bizarre Adventure",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mhee",
-            "Description": "MheeHub, Auto Farm, Kill All & More!",
-            "ThumbNail": "https://i.imgur.com/Mla3w6V.jpg"
-        },
-        {
-            "Name": "NEW - Fall Block",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/fallguys",
-            "Description": "OP GUI, Auto Win, Teleport, Infinite Level & More!",
-            "ThumbNail": "https://i.imgur.com/oRwedkD.png"
-        },
-        {
-            "Name": "NEW - Mortem Metallum",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mortem",
-            "Description": "#1 GUI, Silent Aim, Auto Parry, Kill All & More!",
-            "ThumbNail": "https://i.imgur.com/kDH3f0i.jpg"
-        },
-        {
-            "Name": "NEW - Grand Piece Online",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/gpo",
-            "Description": "#1 Exclusive GUI, Includes the best features!",
-            "ThumbNail": "https://i.imgur.com/YB1e4D2.png"
-        },
-        {
-            "Name": "NEW - Bitcoin Miner",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/btc",
-            "Description": "Best GUI, Auto Farm,",
-            "ThumbNail": "https://i.imgur.com/G19y3BU.jpg"
-        },
-        {
-            "Name": "NEW - Dragon Blox Ultimate",
-            "Url": "https://pastebin.com/raw/3rk2femQ",
-            "Description": "AutoFarm GUI for Dragon Blox!",
-            "ThumbNail": "https://i.imgur.com/OEwd2hv.png"
-        },
-        {
-            "Name": "NEW - RO-Wizard",
-            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/wiz",
-            "Description": "OP GUI, Includes the best features!",
-            "ThumbNail": "https://i.imgur.com/G19y3BU.jpg"
-        },
-        {
             "Name": "Shindo Life",
             "Url": "https://pastebin.com/raw/XHiBjgr9",
             "Description": "#1 Exclusive AutoFarm, With Other Features!",
@@ -89,6 +35,12 @@
             "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/blox",
             "Description": "Exclusive AutoFarm for BloxBurg!",
             "ThumbNail": "https://i.imgur.com/PLzvt1X.png"
+        },
+	{
+            "Name": "Adopt Me",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/oding",
+            "Description": "#1 Exclusive GUI, Auto Farm & More!",
+            "ThumbNail": "https://i.imgur.com/EQtDKpq.jpg"
         },
         {
             "Name": "Phantom Forces",
@@ -144,6 +96,18 @@
             "Description": "OP GUI, Auto Farm Everything!",
             "ThumbNail": "https://i.imgur.com/i95r0D0.jpg"
         },
+	        {
+            "Name": "Little World",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/world",
+            "Description": "Best GUI, Auto Farm, Kill All & More!",
+            "ThumbNail": "https://i.imgur.com/RbIPp6c.jpg"
+        },
+        {
+            "Name": "Your Bizarre Adventure",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mhee",
+            "Description": "MheeHub, Auto Farm, Kill All & More!",
+            "ThumbNail": "https://i.imgur.com/Mla3w6V.jpg"
+        },
         {
             "Name": "Identity Fraud",
             "Url": "https://pastebin.com/raw/Ba1JHjSJ",
@@ -192,6 +156,18 @@
             "Description": "Best AutoFarm Including Many More Features!",
             "ThumbNail": "https://i.imgur.com/QCbBEBa.png"
         },
+	        {
+            "Name": "Fall Block",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/fallguys",
+            "Description": "OP GUI, Auto Win, Teleport, Infinite Level & More!",
+            "ThumbNail": "https://i.imgur.com/oRwedkD.png"
+        },
+        {
+            "Name": "Mortem Metallum",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mortem",
+            "Description": "#1 GUI, Silent Aim, Auto Parry, Kill All & More!",
+            "ThumbNail": "https://i.imgur.com/kDH3f0i.jpg"
+        },
 		{
             "Name": "Blood Samurai 2",
             "Url": "https://pastebin.com/raw/qwuY18jx",
@@ -203,6 +179,18 @@
             "Url": "https://pastebin.com/raw/H24Ygh2P",
             "Description":  "OverPowered GUI With A Lot Of Features Including An Autofarm!",
             "ThumbNail": "https://i.imgur.com/VllALEa.png"
+        },
+	{
+            "Name": "Grand Piece Online",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/gpo",
+            "Description": "#1 Exclusive GUI, Includes the best features!",
+            "ThumbNail": "https://i.imgur.com/YB1e4D2.png"
+        },
+        {
+            "Name": "Bitcoin Miner",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/btc",
+            "Description": "Best GUI, Auto Farm,",
+            "ThumbNail": "https://i.imgur.com/G19y3BU.jpg"
         },
         {
             "Name": "Prison Life",
@@ -294,6 +282,12 @@
             "Description": "AutoFarm GUI, one of the best!",
             "ThumbNail": "https://i.imgur.com/75nc2I7.png"
         },
+	        {
+            "Name": "Dragon Blox Ultimate",
+            "Url": "https://pastebin.com/raw/3rk2femQ",
+            "Description": "AutoFarm GUI for Dragon Blox!",
+            "ThumbNail": "https://i.imgur.com/OEwd2hv.png"
+        },
         {
             "Name": "Tower Of Hell",
             "Url": "https://pastebin.com/raw/bBbdH5Uv",
@@ -377,6 +371,12 @@
             "Url": "https://pastebin.com/raw/wa7iQDB5",
             "Description": "No GUI, just AutoFarm",
             "ThumbNail": "https://i.imgur.com/bgI0UiR.png"
+        },
+	{
+            "Name": "RO-Wizard",
+            "Url": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/wiz",
+            "Description": "OP GUI, Includes the best features!",
+            "ThumbNail": "https://i.imgur.com/G19y3BU.jpg"
         },
         {
             "Name": "Ragdoll Royale",
