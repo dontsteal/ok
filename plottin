@@ -12,7 +12,7 @@
             "Description": "The Best Hub!",
             "ThumbNail": "https://i.imgur.com/3wfoKAr.png"
         },
-	        {
+	{
             "Name": "NEW - King Piece",
             "Url": "https://raw.githubusercontent.com/dontsteal/donttouch/main/peace",
             "Description": "#1 GUI, Raid Farm, Auto Farm & More!",
@@ -42,7 +42,6 @@
             "Description": "Auto Farm, Kill All Titans!",
             "ThumbNail": "https://i.imgur.com/5TWF9kS.jpg"
         },
-
         {
             "Name": "Shindo Life",
             "Url": "https://raw.githubusercontent.com/dontsteal/ok/main/ak47",
