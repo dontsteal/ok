@@ -6,7 +6,7 @@ function LoadMe(link)
     loadstring(game:HttpGet(link))()
 end
 Gamer:Button("Infinite Spins", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dontsteal/ok/main/onme",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FurkyYT/Vesteria/main/sp",true))()
 end)
 Gamer:Button("NEW Best GUI", function()
 loadstring(game:HttpGet("https://bruh.keshhub.com/.lua"))()
